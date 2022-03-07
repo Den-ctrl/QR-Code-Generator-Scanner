@@ -1,4 +1,4 @@
-MYsql was used on this system
+XAMPP and MYsql was used on this system
 
 create database "qrdata"
 create table:
